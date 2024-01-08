@@ -39,9 +39,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/I-Divine/I-Divine/output/snake.svg" alt="Snake animation" />
 
 ###
 
