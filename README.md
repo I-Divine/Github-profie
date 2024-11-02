@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/igwedinmai" target="blank"><img src="https://img.shields.io/twitter/follow/igwedinmai?logo=twitter&style=for-the-badge" alt="igwedinmai" /></a> </p>
 
-- 🌱 I’m currently learning **Firebase, PHP, Laravel**
+- 🌱 I’m currently learning **Java, Springboot**
 
 - 👨‍💻 All of my projects are available at [pandaguy.netlify.app](pandaguy.netlify.app)
 
